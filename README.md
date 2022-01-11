@@ -1,8 +1,13 @@
-# Hi there, I am Suyog Dahal 👋
+## Hi there, I am Suyog Dahal 👋
 
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=suyogdahal&hide=issues,contribs&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=suyogdahal&hide=issues,contribs&count_private=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
+
+#### Find me on
+
+- [LinkedIn](//linkedin.com/in/suyogdahal) :computer:
+- [Email](mailto:suyogdahal46@gmail.com) :email:
   
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogdahal&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
