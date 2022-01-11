@@ -4,9 +4,6 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=suyogdahal&hide=issues,contribs&count_private=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 
-#### Have a look at snake having my contribs:
-![Snake gif](https://github.com/suyogdahal/suyogdahal/blob/main/output/github-contribution-grid-snake.gif)  
-
 #### Find me on
 
 - [LinkedIn](//linkedin.com/in/suyog-dahal/) :computer:
@@ -15,7 +12,7 @@
   
 <!-- #### See my contributions eaten by a snake
   
-![Snake gif](https://github.com/suyogdahal/testing/blob/main/output/github-contribution-grid-snake.gif) -->
+![Snake gif](https://github.com/suyogdahal/suyogdahal/blob/main/output/github-contribution-grid-snake.gif) -->
   
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogdahal&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
