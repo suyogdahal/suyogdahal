@@ -6,7 +6,7 @@
 
 #### Find me on
 
-- [LinkedIn](//linkedin.com/in/suyogdahal) :computer:
+- [LinkedIn](//linkedin.com/in/suyog-dahal/) :computer:
 - [Email](mailto:suyogdahal46@gmail.com) :email:
   
 <!--
