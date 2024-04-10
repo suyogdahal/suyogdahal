@@ -1,9 +1,5 @@
 ## Hi there, I am Suyog <img width="30" height="30" src="https://user-images.githubusercontent.com/44140921/119137937-0e555700-ba61-11eb-8bd8-c4cf32f9e005.gif">
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=suyogdahal&hide=issues,contribs&count_private=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-
 #### Find me on
 
 - [LinkedIn](//linkedin.com/in/suyog-dahal/) :computer:
