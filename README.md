@@ -4,7 +4,8 @@
 
 - [LinkedIn](//linkedin.com/in/suyog-dahal/) :computer:
 - [Email](mailto:suyogdahal46@gmail.com) :email:
-  
+
+Also, I have recently started writing [here](https://suyogdahal.com.np).
   
 <!-- #### See my contributions eaten by a snake
   
